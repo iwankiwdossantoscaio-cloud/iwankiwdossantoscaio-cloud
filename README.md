@@ -1,45 +1,52 @@
 <div align="center">
   
-  ### Olá! Eu sou o **Caio Iwankiw dos Santos** 👋
-
-  **Estudante de Engenharia de Software** na Faculdade SENAI Fatesg  
-  Curitiba e Região
+  <!-- Banner com animação de digitação -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Caio+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Apaixonado+por+tecnologia+%26+IA" alt="Typing SVG" />
 
 </div>
 
----
-
-### 🚀 Sobre mim
-
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente curso **Engenharia de Software** e busco constantemente evoluir minhas habilidades técnicas e práticas.
-
-- 💻 Programação em **C**, **JavaScript**, **Python**, **SQL**, **HTML** e **CSS**
-- 🤖 Interesse em **Inteligência Artificial**
-- 🎓 Concluí o **CS50** de Harvard
-- 🌱 Sempre aprendendo e construindo novos projetos
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
+<br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iwankiwdossantoscaio-cloud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwankiwdossantoscaio-cloud&layout=compact&langs_count=8&theme=tokyonight"/>
+  <strong>Estudante de Engenharia de Software • SENAI Fatesg • Curitiba</strong>
 </div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/iwankiwdossantoscaio-cloud">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/caio-iwankiw-dos-santos-0b40b439a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🧠 Sobre mim
+
+Olá! Me chamo **Caio Iwankiw dos Santos**, sou estudante de **Engenharia de Software** na Faculdade SENAI Fatesg, em Curitiba.
+
+Tenho interesse em desenvolvimento de software, inteligência artificial e em criar soluções que realmente resolvam problemas.
+
+Atualmente estou aprendendo e praticando:
+
+- Programação em **C**, **JavaScript**, **Python**, **SQL**, **HTML** e **CSS**
+- Desenvolvimento Web
+- Inteligência Artificial
+- CS50 de Harvard
+
+> 💡 Acredito que programar é mais do que escrever código — é transformar ideias em soluções reais.
+
+---
+
+### 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,js,python,html,css,ts,vscode,github" />
+</p>
 
 ---
 
@@ -55,9 +62,10 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente curso **
 
 ### 📫 Como me encontrar
 
-- 📍 Curitiba e Região
-- 🎓 Faculdade SENAI Fatesg
+- 📍 **Curitiba e Região**
+- 🎓 **Faculdade SENAI Fatesg**
 - 💼 Aberto a oportunidades e colaborações
+- 🔗 [LinkedIn](https://www.linkedin.com/in/caio-iwankiw-dos-santos-0b40b439a)
 
 ---
 
