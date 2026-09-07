@@ -63,7 +63,7 @@ Atualmente estou aprendendo e praticando:
 ### 📫 Como me encontrar
 
 - 📍 **Curitiba e Região**
-- 🎓 **Faculdade SENAI Fatesg**
+- 🎓 **Faculdade UniSENAI**
 - 💼 Aberto a oportunidades e colaborações
 - 🔗 [LinkedIn](https://www.linkedin.com/in/caio-iwankiw-dos-santos-0b40b439a)
 
