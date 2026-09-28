@@ -1,74 +1,45 @@
-<div align="center">
-  
-  <!-- Banner com animação de digitação -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Caio+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Apaixonado+por+tecnologia+%26+IA" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <strong>Estudante de Engenharia de Software • SENAI Fatesg • Curitiba</strong>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/iwankiwdossantoscaio-cloud">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/caio-iwankiw-dos-santos-0b40b439a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
----
-
-### 🧠 Sobre mim
-
-Olá! Me chamo **Caio Iwankiw dos Santos**, sou estudante de **Engenharia de Software** na Faculdade SENAI Fatesg, em Curitiba.
-
-Tenho interesse em desenvolvimento de software, inteligência artificial e em criar soluções que realmente resolvam problemas.
-
-Atualmente estou aprendendo e praticando:
-
-- Programação em **C**, **JavaScript**, **Python**, **SQL**, **HTML** e **CSS**
-- Desenvolvimento Web
-- Inteligência Artificial
-- CS50 de Harvard
-
-> 💡 Acredito que programar é mais do que escrever código — é transformar ideias em soluções reais.
-
----
-
-### 🛠️ Tecnologias
+<!--
+  ANTES DE PUBLICAR, troque os trechos [entre colchetes]:
+  - [seu-email], [link-reputai], [link-nexus], [link-chat-ia]
+  - Confirme o nome da faculdade (no README antigo aparecia "SENAI Fatesg", que fica em Goiânia).
+  - Só mantenha um projeto na lista se o repositório estiver público, com README próprio e sem chaves de API.
+  Este arquivo usa a pasta assets/ (deve ficar no mesmo repositório).
+-->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,python,html,css,ts,vscode,github" />
+  <img src="assets/header.svg" alt="Caio Iwankiw dos Santos, estudante de Engenharia de Software" width="100%" />
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/caio-iwankiw-dos-santos-0b40b439a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:[seu-email]"><img src="https://img.shields.io/badge/E--mail-16304F?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</p>
 
-### 📌 Projetos em destaque
+<p align="center"><img src="assets/t-sobre.svg" alt="Sobre mim" width="100%" /></p>
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [**new-App-IA**](https://github.com/iwankiwdossantoscaio-cloud/new-App-IA) | Novo App de Currículos | TypeScript |
-| [**site_web**](https://github.com/iwankiwdossantoscaio-cloud/site_web) | Site Web | HTML |
-| [**site-web**](https://github.com/iwankiwdossantoscaio-cloud/site-web) | Site Web | - |
+Cursando **Engenharia de Software** na UniSENAI, em Curitiba. Aprendo construindo: meus projetos juntam aplicações web e inteligência artificial, com atenção a segurança e a qualidade do código.
 
----
+Estou procurando **estágio em desenvolvimento de software**.
 
-### 📫 Como me encontrar
+Agora estou estudando:
 
-- 📍 **Curitiba e Região**
-- 🎓 **Faculdade UniSENAI**
-- 💼 Aberto a oportunidades e colaborações
-- 🔗 [LinkedIn](https://www.linkedin.com/in/caio-iwankiw-dos-santos-0b40b439a)
+- CS50 de Harvard
+- Algoritmos e complexidade
+- Inteligência Artificial aplicada a produtos web
 
----
+<p align="center"><img src="assets/t-stack.svg" alt="Stack" width="100%" /></p>
 
-<div align="center">
-  <i>Obrigado por visitar o meu perfil!</i> ✨
-</div>
+<p align="center"><img src="assets/stack.svg" alt="C, Python, JavaScript, TypeScript, Java, SQL, HTML, CSS, React, Vite, Tailwind CSS, Supabase, Node.js, Git, GitHub, VS Code" width="100%" /></p>
+
+<p align="center"><img src="assets/t-projetos.svg" alt="Projetos" width="100%" /></p>
+
+<a href="[link-reputai]"><img src="assets/card-reputai.svg" alt="ReputAí: plataforma de avaliação de empresas" width="100%" /></a>
+<a href="[link-nexus]"><img src="assets/card-nexus.svg" alt="Nexus: assistente com notas e chat com IA" width="100%" /></a>
+<a href="[link-chat-ia]"><img src="assets/card-chat-ia.svg" alt="Chat com IA e agenda em Java Spring Boot" width="100%" /></a>
+
+<p align="center"><img src="assets/t-contato.svg" alt="Contato" width="100%" /></p>
+
+Curitiba e região, aberto a estágio presencial, híbrido ou remoto.
+Me chame pelo [LinkedIn](https://www.linkedin.com/in/caio-iwankiw-dos-santos-0b40b439a) ou por e-mail: [seu-email].
+
+<p align="center"><img src="assets/footer.svg" alt="" width="100%" /></p>
