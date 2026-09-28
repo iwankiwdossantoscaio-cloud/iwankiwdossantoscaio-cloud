@@ -1,10 +1,4 @@
-<!--
-  ANTES DE PUBLICAR, troque os trechos [entre colchetes]:
-  - [seu-email], [link-reputai], [link-nexus], [link-chat-ia]
-  - Confirme o nome da faculdade (no README antigo aparecia "SENAI Fatesg", que fica em Goiânia).
-  - Só mantenha um projeto na lista se o repositório estiver público, com README próprio e sem chaves de API.
-  Este arquivo usa a pasta assets/ (deve ficar no mesmo repositório).
--->
+
 
 <p align="center">
   <img src="assets/header.svg" alt="Caio Iwankiw dos Santos, estudante de Engenharia de Software" width="100%" />
