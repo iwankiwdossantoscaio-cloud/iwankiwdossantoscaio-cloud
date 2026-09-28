@@ -53,8 +53,8 @@ Agora estou estudando:
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | **ReputAí** | Plataforma brasileira de avaliação de empresas, com RLS, sanitização de entrada e guards de autorização | React 18, TypeScript, Vite, Supabase, Tailwind CSS |
-| **Nexus** | Assistente em um único arquivo HTML: notas, tags e chat com IA, com dados por usuário no navegador | HTML, CSS, JavaScript |
-| **Chat com IA e agenda** | Aplicação com login, chat com IA e gerenciamento de agenda | Java, Spring Boot |
+| [*site_web*](https://github.com/iwankiwdossantoscaio-cloud/site_web) | Site Web | HTML |
+| [*site-web*](https://github.com/iwankiwdossantoscaio-cloud/site-web) | Site Web | - |
 
 <!--
   Só deixe um projeto na tabela se o repositório estiver público, com README próprio e sem chaves de API.
