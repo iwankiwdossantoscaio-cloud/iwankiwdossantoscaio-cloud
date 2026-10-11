@@ -53,7 +53,7 @@ Agora estou estudando:
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | **ReputAí** | Plataforma brasileira de avaliação de empresas, com RLS, sanitização de entrada e guards de autorização | React 18, TypeScript, Vite, Supabase, Tailwind CSS |
-| **site_web** | Site com tela de login e senha | HTML,CSS |
+| **site_web** | Site com tela de login e senha | somente frontend |
 | **pixel-perfect-pixels**|Portiforlio com animações no foquete. | TypeScript, javascript, CSS |
 
 <!--
