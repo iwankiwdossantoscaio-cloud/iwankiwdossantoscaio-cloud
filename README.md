@@ -56,7 +56,8 @@ Agora estou estudando:
 | **Site_web** | Site com tela de login e senha | HTML5, CSS, Javascript.|
 | **Pixel-perfect-pixels**| Portiforlio com animações no foquete. | TypeScript, CSS, HTML —  React (o JSX), JSON. |
 | **Snap-match-shine** | Gerador de Curriculo focado em áreas da Tecnologia com Lovable | TypeScript, HTML5 / JSX, JavaScript. |
-
+| **Chat com IA em Java** | Aplicação com login, chat de inteligência artificial e gerenciamento de agenda, desenvolvida com Java e Spring Boot. | IaChatApplication.java, ChatController.javaREST endpoint POST /api/chat
+AnthropicService.java, ChatRequest/Response.java, application.properties, static/index.html |
 
 <!--
   Só deixe um projeto na tabela se o repositório estiver público, com README próprio e sem chaves de API.
