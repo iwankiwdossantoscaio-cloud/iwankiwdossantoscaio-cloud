@@ -53,8 +53,10 @@ Agora estou estudando:
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | **ReputAí** | Plataforma brasileira de avaliação de empresas, com RLS, sanitização de entrada e guards de autorização | React 18, TypeScript, Vite, Supabase, Tailwind CSS |
-| **site_web** | Site com tela de login e senha | somente frontend |
-| **pixel-perfect-pixels**|Portiforlio com animações no foquete. | TypeScript, javascript, CSS |
+| **Site_web** | Site com tela de login e senha | somente frontend |
+| **Pixel-perfect-pixels**| Portiforlio com animações no foquete. | TypeScript, CSS , HTML —  React (o JSX), JSON |
+| **Snap-match-shine** | Gerador de Curriculo focado em áreas da Tecnologia com Lovable | TypeScript , HTML5 / JSX , JavaScript .
+
 
 <!--
   Só deixe um projeto na tabela se o repositório estiver público, com README próprio e sem chaves de API.
