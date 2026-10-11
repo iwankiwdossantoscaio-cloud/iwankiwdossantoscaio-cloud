@@ -53,8 +53,8 @@ Agora estou estudando:
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | **ReputAí** | Plataforma brasileira de avaliação de empresas, com RLS, sanitização de entrada e guards de autorização | React 18, TypeScript, Vite, Supabase, Tailwind CSS |
-| [*site_web*](https://github.com/iwankiwdossantoscaio-cloud/site_web) | Site Web | HTML |
-| [*pixel-perfect-pixels*]  |Portiforlio com animações no foquete. | TypeScript, javascript, CSS  |
+| **site_web** | Site com tela de login e senha | HTML,CSS |
+| **pixel-perfect-pixels**|Portiforlio com animações no foquete. | TypeScript, javascript, CSS |
 
 <!--
   Só deixe um projeto na tabela se o repositório estiver público, com README próprio e sem chaves de API.
