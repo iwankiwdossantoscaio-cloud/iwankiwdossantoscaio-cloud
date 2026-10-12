@@ -57,7 +57,7 @@ Agora estou estudando:
 | **Pixel-perfect-pixels**| Portiforlio com animações no foquete. | TypeScript, CSS, HTML —  React (o JSX), JSON. |
 | **Snap-match-shine** | Gerador de Curriculo focado em áreas da Tecnologia com Lovable | TypeScript, HTML5 / JSX, JavaScript. |
 | **Chat com IA em Java** | Aplicação com login, chat de inteligência artificial e gerenciamento de agenda, desenvolvida com Java e Spring Boot. | HTML,  API da Anthropic, Spring, Java, backend. |
-| **NEXUS** | Assistente em um único arquivo HTML com notas, tags, dados por usuário no localStorage e chat com inteligência artificial. | HTML + CSS + JS |
+| **NEXUS** | Assistente em um único arquivo HTML com notas, tags, dados por usuário no localStorage e chat com inteligência artificial. | HTML5 + CSS3 + JavaScript ES2022 |
 
 <!--
   Só deixe um projeto na tabela se o repositório estiver público, com README próprio e sem chaves de API.
